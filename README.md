@@ -6,13 +6,13 @@ Tilix Setup is a penetration testing and red teaming script that installs and cu
 
 Clone the GitHub repository and run the script
 ```
-git clone https://github.com/jamesm0rr1s/Tilix-Setup /opt/jamesm0rr1s/Tilix-Setup
+git clone https://github.com/centralinfosec/Tilix-Setup /opt/Central-InfoSec/Tilix-Setup
 ```
 
 ## Usage
 
 Run the following commands to install:
 ```
-chmod +x /opt/jamesm0rr1s/Tilix-Setup/tilix.sh
-/opt/jamesm0rr1s/Tilix-Setup/tilix.sh
+chmod +x /opt/Central-InfoSec/Tilix-Setup/tilix.sh
+/opt/Central-InfoSec/Tilix-Setup/tilix.sh
 ```
