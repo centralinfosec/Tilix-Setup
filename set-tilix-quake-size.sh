@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set an alias
-# alias ts='bash /opt/jamesm0rr1s/Tilix-Setup/set-tilix-quake-size.sh'
+# alias ts='bash /opt/Central-InfoSec/Tilix-Setup/set-tilix-quake-size.sh'
 
 # Toggle between 30% and 70% window height when no parameters are passed in
 # ts
