@@ -142,8 +142,8 @@ dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/cus
 dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings "['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1/']"
 
 # Set aliases
-echo "alias ts='bash /opt/jamesm0rr1s/Tilix-Setup/set-tilix-quake-size.sh'" >> ~/.bashrc
-echo "alias tt='bash /opt/jamesm0rr1s/Tilix-Setup/set-tilix-transparency.sh'" >> ~/.bashrc
+echo "alias ts='bash /opt/Central-InfoSec/Tilix-Setup/set-tilix-quake-size.sh'" >> ~/.bashrc
+echo "alias tt='bash /opt/Central-InfoSec/Tilix-Setup/set-tilix-transparency.sh'" >> ~/.bashrc
 
 # Set the prompt to show Kali, the date, the time, path, and if the UID is 0
 echo 'PS1="\[\033[01;31m\]\D{Kali} \[\033[00;37m\]\D{%F} \[\033[00;37m\]\D{%T} \[\033[01;34m\]\w\[\033[00;37m\]\\$\[\033[0m\] "' >> ~/.bashrc
