@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set an alias
-# alias tt='bash /opt/jamesm0rr1s/Tilix-Setup/set-tilix-transparency.sh'
+# alias tt='bash /opt/Central-InfoSec/Tilix-Setup/set-tilix-transparency.sh'
 
 # Toggle between 0% and 25% transparency when no parameters are passed in
 # tt
